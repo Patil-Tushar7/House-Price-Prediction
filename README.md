@@ -140,10 +140,3 @@ The system avoids retraining by checking saved models, making it efficient and p
 ##  Author
 
 **Tushar Patil**
-
-
-
-
-
-If you want next step:
-👉 I can help you **make GitHub look premium (with badges, visuals, commits, screenshots)** — that will push it to **9.5/10 level** 🚀
