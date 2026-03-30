@@ -1,6 +1,6 @@
 
 
-##. README.md 
+## README.md 
 ---
 
 ##  House Price Prediction using Machine Learning
