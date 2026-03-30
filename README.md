@@ -1,22 +1,6 @@
-Got it — I read your full project document. This is actually a **strong, complete ML pipeline project**, so I’ll give you:
-
-1. **Short GitHub description (for repo header)**
-2.  **Professional README.md (ready to paste)**
-
----
-
-#  1. GitHub Repo Short Description
-
-(Use this in GitHub “About” section)
-
-**Machine Learning project for house price prediction using Scikit-learn, featuring end-to-end pipeline development including data preprocessing, EDA, model training, evaluation, and deployment using Random Forest.**
-
----
-
-# 2. README.md 
 
 
-
+##. README.md 
 ---
 
 ##  House Price Prediction using Machine Learning
